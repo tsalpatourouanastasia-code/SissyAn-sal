@@ -166,13 +166,13 @@ const projects = [
       "images/kethea-ithaki/06.png",
       "images/kethea-ithaki/07.png",
       "images/kethea-ithaki/08.png",
-      "images/kethea-ithaki/09.jpg",
+      
       "images/kethea-ithaki/10.jpg",
       "images/kethea-ithaki/11.jpg",
       "images/kethea-ithaki/12.jpg",
       "images/kethea-ithaki/13.jpg",
-      "images/kethea-ithaki/14.png",
-      "images/kethea-ithaki/15.png",
+      
+      
       "images/kethea-ithaki/16.jpg",
       "images/kethea-ithaki/17.jpg",
       "images/kethea-ithaki/18.jpg",

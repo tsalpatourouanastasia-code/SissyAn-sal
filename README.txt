@@ -17,7 +17,7 @@ email: ""
 Άνοιξε το content.js, αντέγραψε ένα project block και άλλαξε id, title, year, details, text, thumbnail και images.
 
 ΣΗΜΕΙΩΣΗ:
-Οι εικόνες δεν συμπιέστηκαν και δεν γίνεται zoom / fullscreen.
+Οι εικόνες δεν συμπιέστηκαν και δεν γίνεται zoom / fullscreen..
 
 
 UPDATED: Added CV photo/contact, background image, KETHEA ITHAKI, notes in progress, Reflections replacement/additional image, title edits, Anthologio image removals.

@@ -19,15 +19,15 @@ const projects = [
       "images/notes-in-progress/03.jpg",
       "images/notes-in-progress/04.jpg",
       "images/notes-in-progress/05.jpg",
-      "images/notes-in-progress/06.png",
+      
       "images/notes-in-progress/07.jpg",
       "images/notes-in-progress/08.jpg",
       "images/notes-in-progress/09.jpg",
-      "images/notes-in-progress/10.jpg",
-      "images/notes-in-progress/11.jpg",
-      "images/notes-in-progress/12.jpg",
-      "images/notes-in-progress/13.jpg",
-      "images/notes-in-progress/14.jpg",
+      
+      
+      
+      
+      
       "images/notes-in-progress/15.jpg",
       "images/notes-in-progress/16.jpg",
       "images/notes-in-progress/17.jpg",
@@ -35,22 +35,22 @@ const projects = [
       "images/notes-in-progress/19.jpg",
       "images/notes-in-progress/20.jpg",
       "images/notes-in-progress/21.jpg",
-      "images/notes-in-progress/22.jpg",
-      "images/notes-in-progress/23.jpg",
-      "images/notes-in-progress/24.jpg",
-      "images/notes-in-progress/25.jpg",
-      "images/notes-in-progress/26.jpg",
+      
+      
+      
+    
+      
       "images/notes-in-progress/27.jpg",
-      "images/notes-in-progress/28.jpg",
+      
       "images/notes-in-progress/29.jpg",
-      "images/notes-in-progress/30.jpg",
-      "images/notes-in-progress/31.jpg",
-      "images/notes-in-progress/32.jpg",
-      "images/notes-in-progress/33.jpg",
+      
+      
+      
+      
       "images/notes-in-progress/34.jpg",
-      "images/notes-in-progress/35.jpg",
+      
       "images/notes-in-progress/36.jpg",
-      "images/notes-in-progress/37.jpg",
+      
       "images/notes-in-progress/38.jpg",
       "images/notes-in-progress/39.jpg",
       "images/notes-in-progress/40.jpg",

@@ -27,6 +27,14 @@ body::before {
   opacity: 0.10;
 }
 
+.site-shell,
+.cv-page,
+.carousel-image,
+.word-layout img,
+.cv-photo {
+  position: relative;
+  z-index: 1;
+}
 
 
 a { color: #000; text-decoration: none; }

@@ -91,7 +91,17 @@ function renderCarousel(project) {
     renderCarousel(project);
   };
 }
+document.onkeydown = (event) => {
+  if (event.key === 'ArrowLeft') {
+    activeImage = (activeImage - 1 + total) % total;
+    renderCarousel(project);
+  }
 
+  if (event.key === 'ArrowRight') {
+    activeImage = (activeImage + 1) % total;
+    renderCarousel(project);
+  }
+};
 function renderWordLayout(project) {
   projectView.innerHTML = `
     <div class="word-layout">

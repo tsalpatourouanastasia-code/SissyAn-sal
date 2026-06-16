@@ -64,9 +64,9 @@ const projects = [
   },
   {
     "id": "anthologio",
-    "title": "ΑΝΘΟΛΟΓΙΟ / Tales of the UNexpressed.",
+    "title": "ANTHOLOGIO / Tales of the Unexpressed.",
     "year": "2023",
-    "details": "ΑΝΘΟΛΟΓΙΟ / 2023\nTales of the UNexpressed.",
+    "details": "ANTHOLOGIO / 2023\nTales of the Unexpressed.",
     "text": "",
     "thumbnail": "images/anthologio/01.jpeg",
     "layout": "carousel",
